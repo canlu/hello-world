@@ -1,2 +1,2 @@
 # hello-world
-A repository that servers as an introduction to Github work flow.
+A repository that serves as an introduction to the Github work flow.
